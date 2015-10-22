@@ -8,4 +8,4 @@ var summation = function(...items){
     return sum;
 };
 var result = summation(...numberArray);
-console.log(result);
+console.log("Result: ",result);
